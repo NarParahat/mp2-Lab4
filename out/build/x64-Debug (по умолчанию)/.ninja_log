@@ -1,0 +1,10 @@
+# ninja log v5
+5	5260	629920167	StackLib/CMakeFiles/StackLib.dir/Stack.cpp.obj	6e3a11fce94e1a22
+141	6672	629920167	main/CMakeFiles/main.dir/main.cpp.obj	5bd2a9c6dd53c065
+338	6919	629920167	test/CMakeFiles/MP2_TESTS.dir/test_main.cpp.obj	e8bd66310f30e969
+234	6951	629920168	test/CMakeFiles/MP2_TESTS.dir/test_TQueue.cpp.obj	2fde8176442a56ca
+6472	7974	629920170	StackLib/StackLib.lib	3226daaab3086247
+6677	11067	629920173	main/main.exe	bea90d1657630c51
+51	13310	629920175	gtest/CMakeFiles/gtest.dir/gtest-all.cc.obj	69a45592ab7f2cd7
+13321	13824	629920176	gtest/gtest.lib	cdb13b6de20e87c6
+13824	17090	629920179	test/MP2_TESTS.exe	41e740f9647e11ff
